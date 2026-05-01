@@ -2,6 +2,8 @@
 
 Aplicação web interativa para previsão de preços de imóveis em Boston utilizando Machine Learning.
 
+🌐 Clique [aqui](https://bostonhousingai.streamlit.app/) para acessar a Demo.
+
 ---
 
 ## 📊 Sobre o projeto
